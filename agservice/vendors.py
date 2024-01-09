@@ -1,0 +1,10 @@
+vendors={
+    'GEPG':{
+      'utilityCode':'LUKU',
+      'collectionAcc':'LUKU'
+    },
+    'SELCOM':{
+      'utilityCode':'ZUKU',
+      'collectionAcc':'SELCOM_Msisdn'
+    }
+  }
